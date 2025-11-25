@@ -1,4 +1,5 @@
 # Тестовое задание 1
+<img width="1533" height="2748" alt="image" src="https://github.com/user-attachments/assets/af56b7c0-b493-430a-a5de-a4874a0bd928" />
 
 ## Критические проблемы (High)
 
